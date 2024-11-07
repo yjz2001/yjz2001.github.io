@@ -11,9 +11,8 @@ My name is Jingzhou Ye. I am currently a second-year PhD student at the Universi
 
 My current research interests include Software Supply Chain Security and Privacy.
 
-You can find my CV here: [Jingzhou's Curriculum Vitae](../assets/Jingzhou_CV.pdf).
 
-[Email](jingzhou.ye@ucf.edu)
+
 
 ## Education
 - **08/2023 – Now**: Ph.D. in Computer Science, Cyber Security and Privacy Cluster, University of Central Florida  
