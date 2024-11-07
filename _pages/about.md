@@ -11,7 +11,7 @@ My name is Jingzhou Ye. I am currently a second-year PhD student at the Universi
 
 My current research interests include Software Supply Chain Security and Privacy.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Jingzhou_CV.pdf).
+You can find my CV here: [Jingzhou's Curriculum Vitae](../assets/Jingzhou_CV.pdf).
 
 [Email](jingzhou.ye@ucf.edu)
 
