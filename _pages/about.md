@@ -20,7 +20,7 @@ My current research interests include Software Supply Chain Security and Privacy
 - **09/2019 – 07/2023**: Bachelor's in Network Engineering, University of Electronic Science and Technology of China
 
 ## Teaching Experience
-- **01/2025 – 05/2025**: CNT4703C - Design and Implementation of Computer Communication Networks – Foundations of Secure Execution Environment, University of Central Florida
+- **01/2025 – 05/2025**: CNT4703C - Design and Implementation of Computer Communication Networks, University of Central Florida
 - **01/2025 – 05/2025**: CDA5220 – Foundations of Secure Execution Environment, University of Central Florida
 - **01/2024 – 05/2024**: CDA3103 – Computer Logic and Organization, University of Central Florida
 
