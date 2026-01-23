@@ -48,7 +48,7 @@ My current research interests include Software Supply Chain Security and Privacy
 - **Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators**  
   [PDF](https://ieeexplore.ieee.org/abstract/document/10628523) [Cite](https://scholar.googleusercontent.com/scholar.bib?q=info:k3DTH0JrdAYJ:scholar.google.com/&output=citation&scisdr=Cn2ETOADELjCu82YL08:AHkA5jQAAAAAaXOeN09ohq4rTUXvaAnHw89DkQ0&scisig=AHkA5jQAAAAAaXOeN3IjOKjZPiP7kBYczHoa360&scisf=4&ct=citation&cd=-1&hl=zh-CN)  
   Zhaojie Hu¹, **Jingzhou Ye**¹, Yifan Zhang, and Xueqiang Wang.  
-  *Proceedings of the 2024 IEEE European Symposium on Security and Privacy (EuroS&P)*. (Co-first Authors)
+  *Proceedings of the 2024 IEEE European Symposium on Security and Privacy (EuroS&P 2024)*. (Co-first Authors)
 
 
 
