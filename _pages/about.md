@@ -37,6 +37,7 @@ My current research interests include Software Supply Chain Security and Privacy
 
 - **From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns**  
   [PDF](https://dl.acm.org/doi/10.1145/3706598.3713493) [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:k3DTH0JrdAYJ:scholar.google.com/&output=citation)
+  
   **<span style="color:red">Best Paper Award</span>**  
   **Jingzhou Ye**, Yao Li, Wenting Zou, and Xueqiang Wang.  
   *Proceedings of the Conference on Human Factors in Computing Systems (CHI 2025)*.
