@@ -31,23 +31,23 @@ My current research interests include Software Supply Chain Security and Privacy
 
 ## Publications
 - **Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms**  
-  [PDF]() [BibTeX]()  
+  [PDF]() [BibTeX](https://yjz2001.github.io/_pages/sp2026cmp.html)  
   **Jingzhou Ye**¹, Fares Alharbi¹, Luyi Xing, and Xueqiang Wang.  
   *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*.
 
 - **From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns**  
-  [PDF](https://dl.acm.org/doi/10.1145/3706598.3713493) [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:k3DTH0JrdAYJ:scholar.google.com/&output=citation)
+  [PDF](https://dl.acm.org/doi/10.1145/3706598.3713493) [BibTeX](https://yjz2001.github.io/_pages/chi2025ye.html)
   **<span style="color:red">Best Paper Award</span>**  
   **Jingzhou Ye**, Yao Li, Wenting Zou, and Xueqiang Wang.  
   *Proceedings of the Conference on Human Factors in Computing Systems (CHI 2025)*.
 
 - **Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns**  
-  [PDF](https://dl.acm.org/doi/10.5555/3766078.3766379) [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:OBorzctnM2MJ:scholar.google.com/&output=citation&scisdr=Cn2ETOADELjCu82b1pg:AHkA5jQAAAAAaXOdzpgLCosRdw-GCjYGHTwgdPc&scisig=AHkA5jQAAAAAaXOdzkmI1_Mly-tstEr2SIwqYO0&scisf=4&ct=citation&cd=-1&hl=zh-CN)  
+  [PDF](https://dl.acm.org/doi/10.5555/3766078.3766379) [BibTeX](https://yjz2001.github.io/_pages/privacy_law.html)  
   Tao Jing, Yao Li, **Jingzhou Ye**, Jie Wang, and Xueqiang Wang.  
   *Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)*.
 
 - **Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators**  
-  [PDF](https://ieeexplore.ieee.org/abstract/document/10628523) [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:k3DTH0JrdAYJ:scholar.google.com/&output=citation)  
+  [PDF](https://ieeexplore.ieee.org/abstract/document/10628523) [BibTeX](https://yjz2001.github.io/_pages/eurosp2024seeing.html)  
   Zhaojie Hu¹, **Jingzhou Ye**¹, Yifan Zhang, and Xueqiang Wang.  
   *Proceedings of the 2024 IEEE European Symposium on Security and Privacy (EuroS&P 2024)*. (Co-first Authors)
 
