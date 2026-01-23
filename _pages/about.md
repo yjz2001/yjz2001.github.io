@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jingzhou Ye. I am currently a third-year PhD student at the University of Central Florida, under the supervision of Dr. Xueqiang Wang. Prior to my doctoral studies, I earned my Bachelor’s degree in Network Engineering from the University of Electronic Science and Technology of China.
+My name is Jingzhou Ye. I am currently a third-year PhD student at the University of Central Florida, under the supervision of Dr. [Xueqiang Wang](https://xw48.github.io/). Prior to my doctoral studies, I earned my Bachelor’s degree in Network Engineering from the University of Electronic Science and Technology of China.
 
 My current research interests include Software Supply Chain Security and Privacy.
 
