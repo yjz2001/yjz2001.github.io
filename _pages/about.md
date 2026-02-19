@@ -33,7 +33,7 @@ My current research interests include Software Supply Chain Security and Privacy
 - **Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms**  
   [PDF]() [BibTeX](https://yjz2001.github.io/sp2026cmp.html)  
   **Jingzhou Ye**¹, Fares Alharbi¹, Luyi Xing, and Xueqiang Wang.  
-  *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*, SAN FRANCISCO, CA, USA.
+  *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*, San Francisco, CA, USA.
 
 - **From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns**  
   [PDF](https://dl.acm.org/doi/10.1145/3706598.3713493) [BibTeX](https://yjz2001.github.io/chi2025ye.html)
