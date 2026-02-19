@@ -46,7 +46,7 @@ My current research interests include Software Supply Chain Security and Privacy
 - **Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns**  
   [PDF](https://dl.acm.org/doi/10.5555/3766078.3766379) [BibTeX](https://yjz2001.github.io/privacy_law.html)  
   Tao Jing, Yao Li, **Jingzhou Ye**, Jie Wang, and Xueqiang Wang.  
-  *Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)*.  
+  *Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)*.    
   Seattle, WA, USA.
 
 - **Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators**  
