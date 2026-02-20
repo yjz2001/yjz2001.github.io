@@ -7,7 +7,7 @@ layout: single
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>EuroSP 2024 Citation</title>
+  <title>Privacy Law Citation</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -19,26 +19,46 @@ layout: single
     h1 {
       color: #2c3e50;
     }
+    .citation-container {
+      max-width: 900px;
+      margin-bottom: 20px;
+    }
     .citation-box {
       background-color: #fff;
       border: 1px solid #ddd;
       padding: 20px;
       border-radius: 8px;
-      max-width: 900px;
       white-space: pre-wrap; 
       font-family: "Courier New", Courier, monospace;
+      position: relative;
     }
-    a {
-      color: #2980b9;
-      text-decoration: none;
+    .copy-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background-color: #2980b9;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 0.9em;
     }
-    a:hover {
-      text-decoration: underline;
+    .copy-btn:hover {
+      background-color: #3498db;
+    }
+    .copy-msg {
+      margin-top: 5px;
+      color: green;
+      font-size: 0.9em;
+      display: none;
     }
   </style>
 </head>
 <body>
-  <pre class="citation-box">
+
+<div class="citation-container">
+  <div class="citation-box" id="citationBox">
 @inproceedings{hu2024seeing,
   title={Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators},
   author={Hu, Zhaojie and Ye, Jingzhou and Zhang, Yifan and Wang, Xueqiang},
@@ -47,6 +67,29 @@ layout: single
   year={2024},
   organization={IEEE}
 }
-  </pre>
+  </div>
+  <button class="copy-btn" onclick="copyCitation()">Copy</button>
+  <div class="copy-msg" id="copyMsg">Copied!</div>
+</div>
+
+<script>
+  function copyCitation() {
+    const citationBox = document.getElementById('citationBox');
+    const text = citationBox.innerText;
+
+    // Use Clipboard API
+    navigator.clipboard.writeText(text).then(() => {
+      const msg = document.getElementById('copyMsg');
+      msg.style.display = 'inline';
+      setTimeout(() => {
+        msg.style.display = 'none';
+      }, 1500);
+    }).catch(err => {
+      console.error('Failed to copy: ', err);
+    });
+  }
+</script>
+
 </body>
 </html>
+
