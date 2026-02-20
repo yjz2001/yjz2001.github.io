@@ -7,86 +7,108 @@ layout: single
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Law Citation</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      margin: 40px;
-      line-height: 1.6;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    .citation-container {
-      max-width: 900px;
-      margin-bottom: 20px;
-    }
-    .citation-box {
-      background-color: #fff;
-      border: 1px solid #ddd;
-      padding: 20px;
-      border-radius: 8px;
-      white-space: pre-wrap; 
-      font-family: "Courier New", Courier, monospace;
-      position: relative;
-    }
-    .copy-btn {
-      position: absolute;
-      top: 10px;
-      right: 10px;
-      background-color: #2980b9;
-      color: white;
-      border: none;
-      padding: 5px 10px;
-      border-radius: 5px;
-      cursor: pointer;
-      font-size: 0.9em;
-    }
-    .copy-btn:hover {
-      background-color: #3498db;
-    }
-    .copy-msg {
-      margin-top: 5px;
-      color: green;
-      font-size: 0.9em;
-      display: none;
-    }
-  </style>
+  <title>Citation Box Component</title>
 </head>
 <body>
 
-<div class="citation-container">
-  <div class="citation-box" id="citationBox">
-@inproceedings{jing2025privacy,
-  title={Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years' Special Privacy Rectification Campaigns},
-  author={Jing, Tao and Li, Yao and Ye, Jingzhou and Wang, Jie and Wang, Xueqiang},
-  booktitle={34th USENIX Security Symposium (USENIX Security 25)},
-  pages={5857--5874},
-  year={2025}
+
+<citation-box>
+@inproceedings{jing2025privacy,<br>
+  title={Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years' Special Privacy Rectification Campaigns},<br>
+  author={Jing, Tao and Li, Yao and Ye, Jingzhou and Wang, Jie and Wang, Xueqiang},<br>
+  booktitle={34th USENIX Security Symposium (USENIX Security 25)},<br>
+  pages={5857--5874},<br>
+  year={2025}<br>
 }
-  </div>
-  <button class="copy-btn" onclick="copyCitation()">Copy</button>
-  <div class="copy-msg" id="copyMsg">Copied!</div>
-</div>
+</citation-box>
 
 <script>
-  function copyCitation() {
-    const citationBox = document.getElementById('citationBox');
-    const text = citationBox.innerText;
+class CitationBox extends HTMLElement {
+  constructor() {
+    super();
 
-    // Use Clipboard API
-    navigator.clipboard.writeText(text).then(() => {
-      const msg = document.getElementById('copyMsg');
-      msg.style.display = 'inline';
-      setTimeout(() => {
-        msg.style.display = 'none';
-      }, 1500);
-    }).catch(err => {
-      console.error('Failed to copy: ', err);
-    });
+    // 创建 shadow DOM
+    const shadow = this.attachShadow({ mode: 'open' });
+
+    // 容器
+    const container = document.createElement('div');
+    container.classList.add('citation-container');
+
+    // 样式
+    const style = document.createElement('style');
+    style.textContent = `
+      .citation-container {
+        max-width: 900px;
+        margin-bottom: 20px;
+        position: relative;
+        font-family: Arial, sans-serif;
+      }
+      .citation-box {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 20px;
+        border-radius: 8px;
+        white-space: pre-wrap; 
+        font-family: "Courier New", Courier, monospace;
+      }
+      .copy-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: #2980b9;
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 0.9em;
+      }
+      .copy-btn:hover {
+        background-color: #3498db;
+      }
+      .copy-msg {
+        margin-top: 5px;
+        color: green;
+        font-size: 0.9em;
+        display: none;
+      }
+    `;
+
+    // citation
+    const box = document.createElement('div');
+    box.classList.add('citation-box');
+    box.textContent = this.textContent.trim();
+
+    // Copy button
+    const btn = document.createElement('button');
+    btn.classList.add('copy-btn');
+    btn.textContent = 'Copy';
+    btn.addEventListener('click', () => this.copyText(box));
+
+    // copied
+    const msg = document.createElement('div');
+    msg.classList.add('copy-msg');
+    msg.textContent = 'Copied!';
+
+    container.appendChild(box);
+    container.appendChild(btn);
+    container.appendChild(msg);
+    shadow.appendChild(style);
+    shadow.appendChild(container);
   }
+
+  copyText(box) {
+    const text = box.textContent;
+    navigator.clipboard.writeText(text).then(() => {
+      const msg = this.shadowRoot.querySelector('.copy-msg');
+      msg.style.display = 'inline';
+      setTimeout(() => msg.style.display = 'none', 1500);
+    }).catch(err => console.error('Copy failed: ', err));
+  }
+}
+
+// register component
+customElements.define('citation-box', CitationBox);
 </script>
 
 </body>
