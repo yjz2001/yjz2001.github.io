@@ -20,7 +20,7 @@ My current research interests include Software Supply Chain Security and Privacy
 - **09/2019 – 07/2023**: Bachelor's in Network Engineering, University of Electronic Science and Technology of China
 
 ## Awards
-- **2025** CHI 2025 Best Paper Award
+- **2025** CHI 2025 Best Paper Award 🏆
 - **2025** UCF FCI(Faculty Cluster Initiative) Student Scholarship
 
 ## Teaching Experience
