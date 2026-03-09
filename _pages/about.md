@@ -30,6 +30,12 @@ My current research interests include Software Supply Chain Security and Privacy
 - **01/2024 – 05/2024**: CDA3103 – Computer Logic and Organization, University of Central Florida
 
 ## Publications
+- **When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns**  
+  [PDF]() [BibTeX](https://yjz2001.github.io/sp2026llm.html)  
+  **Jingzhou Ye**, Zhaojie Hu, Yao Li, and Xueqiang Wang.  
+  *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*.<br>
+  San Francisco, CA, USA.
+
 - **Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms**  
   [PDF]() [BibTeX](https://yjz2001.github.io/sp2026cmp.html)  
   **Jingzhou Ye**¹, Fares Alharbi¹, Luyi Xing, and Xueqiang Wang.  
