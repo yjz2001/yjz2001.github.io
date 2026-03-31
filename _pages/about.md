@@ -37,7 +37,7 @@ My current research interests include Software Supply Chain Security and Privacy
   San Francisco, CA, USA.
 
 - **Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms**  
-  [PDF]() [BibTeX](https://yjz2001.github.io/sp2026cmp.html)  
+  [PDF](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b279/2bojw2rDYT6) [BibTeX](https://yjz2001.github.io/sp2026cmp.html)  
   **Jingzhou Ye**¹, Fares Alharbi¹, Luyi Xing, and Xueqiang Wang.  
   *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*.<br>
   San Francisco, CA, USA.
