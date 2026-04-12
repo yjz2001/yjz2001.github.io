@@ -32,7 +32,7 @@ My current research interests include Software Supply Chain Security and Privacy
 
 ## Publications
 - **When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns**  
-  [PDF]() [BibTeX](https://yjz2001.github.io/sp2026llm.html)  
+  [PDF](https://yjz2001.github.io/file.llm_sp.pdf) [BibTeX](https://yjz2001.github.io/sp2026llm.html)  
   **Jingzhou Ye**, Zhaojie Hu, Yao Li, and Xueqiang Wang.  
   *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*.<br>
   San Francisco, CA, USA.
