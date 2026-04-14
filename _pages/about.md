@@ -31,7 +31,7 @@ My current research interests include Software Supply Chain Security and Privacy
 - **01/2024 – 05/2024**: CDA3103 – Computer Logic and Organization, University of Central Florida
 
 ## Publications
-- **When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns**
+- **When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns** <br>
   <!-- [PDF]() [BibTeX](https://yjz2001.github.io/sp2026llm.html) --> 
   [PDF](https://yjz2001.github.io/file/llm_sp.pdf) [BibTeX](https://yjz2001.github.io/sp2026llm.html)  
   **Jingzhou Ye**, Zhaojie Hu, Yao Li, and Xueqiang Wang.  
