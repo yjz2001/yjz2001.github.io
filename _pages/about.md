@@ -38,14 +38,14 @@ My current research interests include Software Supply Chain Security and Privacy
   *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*.<br>
   San Francisco, CA, USA.
 
-- **Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms**
+- **Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms** <br>
   <!-- [PDF](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b279/2bojw2rDYT6) [BibTeX](https://yjz2001.github.io/sp2026cmp.html) -->
   [PDF]( https://yjz2001.github.io/file/cmp_sp.pdf) [BibTeX](https://yjz2001.github.io/sp2026cmp.html)    
   **Jingzhou Ye**¹, Fares Alharbi¹, Luyi Xing, and Xueqiang Wang.  
   *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*.<br>
   San Francisco, CA, USA.
 
-- **From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns**  
+- **From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns**  <br>
   <!-- [PDF](https://dl.acm.org/doi/10.1145/3706598.3713493) [BibTeX](https://yjz2001.github.io/chi2025ye.html) -->
   [PDF](https:///yjz2001.github.io/file/chi_2025_ye.pdf) [BibTeX](https://yjz2001.github.io/chi2025ye.html)
   **<span style="color:red">Best Paper Award</span>** 🏆 <br>
@@ -53,14 +53,14 @@ My current research interests include Software Supply Chain Security and Privacy
   *Proceedings of the Conference on Human Factors in Computing Systems (CHI 2025)*.<br>
   Yokohama, Japan.
 
-- **Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns**  
+- **Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns**  <br>
   <!-- [PDF](https://dl.acm.org/doi/10.5555/3766078.3766379) [BibTeX](https://yjz2001.github.io/privacy_law.html) -->
   [PDF](https:///yjz2001.github.io/file/usenixsecurity25-jing.pdf) [BibTeX](https://yjz2001.github.io/privacy_law.html)
   Tao Jing, Yao Li, **Jingzhou Ye**, Jie Wang, and Xueqiang Wang.  
   *Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)*.<br>
   Seattle, WA, USA.
 
-- **Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators**  
+- **Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators**  <br>
   <!-- [PDF](https://ieeexplore.ieee.org/abstract/document/10628523) [BibTeX](https://yjz2001.github.io/eurosp2024seeing.html) -->
   [PDF](https:///yjz2001.github.io/file/eurosp_2024_seeing.pdf) [BibTeX](https://yjz2001.github.io/eurosp2024seeing.html)  
   Zhaojie Hu¹, **Jingzhou Ye**¹, Yifan Zhang, and Xueqiang Wang.  
