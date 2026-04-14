@@ -32,40 +32,40 @@ My current research interests include Software Supply Chain Security and Privacy
 
 ## Publications
 - **When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns** <br>
-  <!-- [PDF]() [BibTeX](https://yjz2001.github.io/sp2026llm.html) --> 
   [PDF](https://yjz2001.github.io/file/llm_sp.pdf) [BibTeX](https://yjz2001.github.io/sp2026llm.html)  <br>
   **Jingzhou Ye**, Zhaojie Hu, Yao Li, and Xueqiang Wang.  
   *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*.<br>
   San Francisco, CA, USA.
+    <!-- [PDF]() [BibTeX](https://yjz2001.github.io/sp2026llm.html) --> 
 
 - **Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms** <br>
-  <!-- [PDF](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b279/2bojw2rDYT6) [BibTeX](https://yjz2001.github.io/sp2026cmp.html) -->
   [PDF]( https://yjz2001.github.io/file/cmp_sp.pdf) [BibTeX](https://yjz2001.github.io/sp2026cmp.html)    <br>
   **Jingzhou Ye**¹, Fares Alharbi¹, Luyi Xing, and Xueqiang Wang.  
   *Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P 2026)*.<br>
   San Francisco, CA, USA.
+  <!-- [PDF](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b279/2bojw2rDYT6) [BibTeX](https://yjz2001.github.io/sp2026cmp.html) -->
 
 - **From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns**  <br>
-  <!-- [PDF](https://dl.acm.org/doi/10.1145/3706598.3713493) [BibTeX](https://yjz2001.github.io/chi2025ye.html) -->
-  [PDF](https:///yjz2001.github.io/file/chi_2025_ye.pdf) [BibTeX](https://yjz2001.github.io/chi2025ye.html) <br>
+  [PDF](https:///yjz2001.github.io/file/chi_2025_ye.pdf) [BibTeX](https://yjz2001.github.io/chi2025ye.html) 
   **<span style="color:red">Best Paper Award</span>** 🏆 <br>
   **Jingzhou Ye**, Yao Li, Wenting Zou, and Xueqiang Wang.  
   *Proceedings of the Conference on Human Factors in Computing Systems (CHI 2025)*.<br>
   Yokohama, Japan.
+    <!-- [PDF](https://dl.acm.org/doi/10.1145/3706598.3713493) [BibTeX](https://yjz2001.github.io/chi2025ye.html) -->
 
 - **Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns**  <br>
-  <!-- [PDF](https://dl.acm.org/doi/10.5555/3766078.3766379) [BibTeX](https://yjz2001.github.io/privacy_law.html) -->
   [PDF](https:///yjz2001.github.io/file/usenixsecurity25-jing.pdf) [BibTeX](https://yjz2001.github.io/privacy_law.html) <br>
   Tao Jing, Yao Li, **Jingzhou Ye**, Jie Wang, and Xueqiang Wang.  
   *Proceedings of the 34th USENIX Security Symposium (USENIX Security 2025)*.<br>
   Seattle, WA, USA.
+    <!-- [PDF](https://dl.acm.org/doi/10.5555/3766078.3766379) [BibTeX](https://yjz2001.github.io/privacy_law.html) -->
 
 - **Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators**  <br>
-  <!-- [PDF](https://ieeexplore.ieee.org/abstract/document/10628523) [BibTeX](https://yjz2001.github.io/eurosp2024seeing.html) -->
   [PDF](https:///yjz2001.github.io/file/eurosp_2024_seeing.pdf) [BibTeX](https://yjz2001.github.io/eurosp2024seeing.html) <br> 
   Zhaojie Hu¹, **Jingzhou Ye**¹, Yifan Zhang, and Xueqiang Wang.  
   *Proceedings of the 2024 IEEE European Symposium on Security and Privacy (EuroS&P 2024)*. **<span style="color:blue">(Co-first Authors)</span>**  
   Vienna, Austria.
+    <!-- [PDF](https://ieeexplore.ieee.org/abstract/document/10628523) [BibTeX](https://yjz2001.github.io/eurosp2024seeing.html) -->
 
 
 
