@@ -22,7 +22,7 @@ My current research interests include Software Supply Chain Security and Privacy
 ## Awards
 - **2026** IEEE S&P Student Travel Grant
 - **2025** CHI 2025 Best Paper Award 🏆
-- **2025** UCF FCI(Faculty Cluster Initiative) Student Scholarship
+- **2025** UCF FCI (Faculty Cluster Initiative) Student Scholarship
 
 ## Teaching Experience
 - **01/2026 – 05/2026**: COP2500C - Concepts in Computer Science, University of Central Florida
